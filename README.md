@@ -1,4 +1,4 @@
-# Strategi Optimasi Komputasi Awan G - Kelas A
+# SOKA Kelompok G
 
 ### 👥 Anggota Kelompok
 
@@ -9,3 +9,5 @@
 | 3  | Farida Qurrotu ‘Ayuna        | 5027231015 |
 | 4  | Nayyara Ashila               | 5027231083 |
 
+### 🔗 Laporan
+[Laporan SOKA_Kelompok G Kelas A](https://docs.google.com/document/d/1blDRiC8PYLgJveV3ndm3ENd7_ar3Xu8e/edit?usp=sharing&ouid=117385278959698151023&rtpof=true&sd=true)
